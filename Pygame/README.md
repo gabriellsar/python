@@ -1,3 +1,4 @@
+# Pygame 🎮
 ```python
 import pygame as py
 from sys import exit
